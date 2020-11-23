@@ -2,7 +2,7 @@
 
 layout: slide
 
-title: "Welcome to our second slide!"
+title: "It is looking great Welcome to our second slide!"
 
 
 
